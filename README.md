@@ -1,6 +1,6 @@
 # Simple GMM based speaker ID (no UBM)
 
-A set of scripts demonstrating google speech API functionalities
+A set of scripts demonstrating GMM-based speaker recognition
 
 ## Getting Started
 
