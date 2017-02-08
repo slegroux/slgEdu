@@ -1,4 +1,4 @@
-# Simple GMM based speaker ID (no UBM)
+# Simple GMM based speaker ID
 
 A set of scripts demonstrating GMM-based speaker recognition
 
@@ -9,10 +9,9 @@ A set of scripts demonstrating GMM-based speaker recognition
 install python modules:
 
 ```
-pip install scikits.talkbox
 pip install matplotlib
+pip install sklearn
 pip install numpy
-pip install librosa
 pip install jupyter
 ```
 
@@ -21,15 +20,13 @@ pip install jupyter
 ### Jupyter notebook tutorial
 
 ```
-jupyter notebook speakerID_demo.ipynb
+jupyter notebook speaker_recognition.ipynb
 ```
 
-### Includes every step of speaker ID system
+### Includes
 * Data exploration
-* Voice activity detection
 * Feature extraction
 * Speaker identification
-* Study of the size of analysis window
 
 
 ## Authors
