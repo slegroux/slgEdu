@@ -36,5 +36,4 @@ jupyter notebook speaker_recognition.ipynb
 
 ## References
 
-
 * Reynolds, Douglas A., and Richard C. Rose. **"Robust text-independent speaker identification using Gaussian mixture speaker models."** Speech and Audio Processing, IEEE Transactions on 3.1 (1995): 72-83.
