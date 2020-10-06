@@ -29,10 +29,11 @@ jupyter notebook speaker_recognition.ipynb
 * Speaker identification
 
 
+## License
+[GPL](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
+
 ## Authors
-
-* **Sylvain Le Groux** <slegroux@ccrma.stanford.edu> - [github](https://github.com/slegroux)
-
+**(c) 2020 Sylvain Le Groux** <slegroux@ccrma.stanford.edu>
 
 ## References
 
