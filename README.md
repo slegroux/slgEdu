@@ -1,6 +1,6 @@
 # Simple GMM based speaker ID
 
-A set of scripts demonstrating GMM-based speaker recognition
+A tutorial demonstrating simplified GMM-based speaker recognition
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ jupyter notebook speaker_recognition.ipynb
 
 ## Authors
 
-* **Sylvain Le Groux** -*<slegroux@ccrma.stanford.edu>* - [github](https://github.com/slegroux)
+* **Sylvain Le Groux** <slegroux@ccrma.stanford.edu> - [github](https://github.com/slegroux)
 
 
 ## References
