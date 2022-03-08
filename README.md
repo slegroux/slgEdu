@@ -1,5 +1,5 @@
 # slgEdu
-Some tests/code that helped me to learn about some basics of speech, nlp, data science, algos, etc.
+Some raw tests/code/notebooks to learn about basics of speech, nlp, data science, algos, etc.
 ## Speech Recognition
 - hmm
 - [Finite State Transducers](slgFST)
@@ -7,7 +7,8 @@ Some tests/code that helped me to learn about some basics of speech, nlp, data s
 ## Speaker Recognition
 - gmm
 ## Natural Language Processing
-- pytorch
+## Pytorch
+- [basics](PytorchX)
 ## Digital Signal Processing
 ## Machine Learning
 ## Data Structures & Algorithms
