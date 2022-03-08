@@ -2,7 +2,7 @@
 Some tests/code that helped me to learn about some basics of speech, nlp, data science, algos, etc.
 ## Speech Recognition
 - hmm
-- [Finite State Transducers](slgFST/README.md)
+- [Finite State Transducers](slgFST)
 - Beam search
 ## Speaker Recognition
 - gmm
