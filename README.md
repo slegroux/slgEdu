@@ -11,10 +11,15 @@ Some raw toy tests/code/notebooks to learn about basics of speech, nlp, data sci
 - [Basics](PytorchX)
 - [Speech](slgSpeech)
 - [Hyperopt](slgHyperopt)
+## TensorFlow
+- [Basics](TensorflowX)
 ## Digital Signal Processing
 - [Basics](slgAudioDSP)
+## Computer vision
+- [Basics](slgCompVis)
 ## Machine Learning
 ## Data Structures & Algorithms
 ## Data Science
-- [claim]
+- [insurance proj](claimdenial)
+- [med pro](breast_cancer_prediction)
 
