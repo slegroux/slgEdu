@@ -1,11 +1,11 @@
 # slgEdu
 Some raw tests/code/notebooks to learn about basics of speech, nlp, data science, algos, etc.
 ## Speech Recognition
-- [hmm](slgHMM)
-- [Finite State Transducers](slgFST)
+- [HMM](slgHMM)
+- [Finite State Transducers (FST)](slgFST)
 - Beam search
 ## Speaker Recognition
-- gmm
+- [GMM](slgSpeakerRec)
 ## Natural Language Processing
 ## Pytorch
 - [basics](PytorchX)
