@@ -1,7 +1,7 @@
 # slgEdu
 Some raw tests/code/notebooks to learn about basics of speech, nlp, data science, algos, etc.
 ## Speech Recognition
-- hmm
+- [hmm](slgHMM)
 - [Finite State Transducers](slgFST)
 - Beam search
 ## Speaker Recognition
