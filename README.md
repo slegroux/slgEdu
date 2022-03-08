@@ -13,8 +13,11 @@ Some raw toy tests/code/notebooks to learn about basics of speech, nlp, data sci
 - [Hyperopt](slgHyperopt)
 ## TensorFlow
 - [Basics](TensorflowX)
+- [Keras](slgKeras)
 ## Digital Signal Processing
 - [Basics](slgAudioDSP)
+## Music Genre Classification
+- [Genre](slgGenreClassifier)
 ## Computer vision
 - [Basics](slgCompVis)
 ## Machine Learning
