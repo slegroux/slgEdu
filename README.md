@@ -8,7 +8,9 @@ Some raw tests/code/notebooks to learn about basics of speech, nlp, data science
 - [GMM](slgSpeakerRec)
 ## Natural Language Processing
 ## Pytorch
-- [basics](PytorchX)
+- [Basics](PytorchX)
+- [Speech](slgSpeech)
+- [Hyperopt](slgHyperopt)
 ## Digital Signal Processing
 ## Machine Learning
 ## Data Structures & Algorithms
